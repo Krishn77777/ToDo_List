@@ -1,9 +1,13 @@
+import Header from "./components/Header";
 
 function App() {
   
 
   return (
-    <header>My To-Do List</header>
+    
+    <div>
+      <Header/>
+    </div>
   )
 }
 
