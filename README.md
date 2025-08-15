@@ -6,7 +6,7 @@ A simple **To-Do List** application built with **React** and **Tailwind CSS**, f
 - Add, edit, delete tasks
 - Mark tasks as completed
 - Persistent storage using **Local Storage**
-- Mobile, tablet, and desktop responsive layout
+
 
 --------------------
 
